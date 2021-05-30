@@ -5,3 +5,5 @@ Burnout is common in these days but not everyone is aware about it and so no one
 ## **Burnout Prediction** 
 
 This project predicts whether an employee is suffering from burnout or not. Company can upload the dataset of their employee and predict if they have this mental health issue or not. A CSV file is generated with the given predicted result so they can provide desired help to these people. This is really helpful during the times of pandemic when people are facing so many other mental health issue. 
+
+
